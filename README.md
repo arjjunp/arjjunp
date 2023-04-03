@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Arjjun Prasaad
+
+I'm Arjjun Prasaad, I am currently pursuing Masters of Science in Computer Science from UIC
+
 <!--
 **arjjunp/arjjunp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
