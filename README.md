@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m Arjjun
+
 👀 I’m interested in Coding and Gaming
+
 🌱 I’m currently learning Scala
-💞️ I’m looking to collaborate on anything with Software Engineering 
+
+💞️ I’m looking to collaborate on anything related to Software Engineering 
+
 📫 How to reach me http://www.linkedin.com/in/arjjun-prasaad
