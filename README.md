@@ -1,5 +1,6 @@
-### Hi there 👋
 
+
+<!--
 I'm Arjjun Prasaad, I am currently pursuing Masters of Science in Computer Science from UIC
 
 <!--
@@ -16,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Arjjun
+👀 I’m interested in Coding and Gaming
+🌱 I’m currently learning Scala
+💞️ I’m looking to collaborate on anything with Software Engineering 
+📫 How to reach me http://www.linkedin.com/in/arjjun-prasaad
