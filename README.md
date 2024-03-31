@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Scala
 
-👯 I’m looking to collaborate on JS based web projects 
-
 🤔 I’m looking for help with Java Spring based software architecture
 
 📫 How to reach me **arjjunpedu@gmail.com**
