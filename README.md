@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
  Know about my experiences [www.linkedin.com/in/arjjun-prasaad]
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjjunp&show_icons=true&locale=en&layout=compact" alt="arjjunp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjjunp&" alt="arjjunp" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
